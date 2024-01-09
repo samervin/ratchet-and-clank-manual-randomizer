@@ -1,0 +1,1 @@
+# ratchet-and-clank-manual-randomizer
