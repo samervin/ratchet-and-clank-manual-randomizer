@@ -1,0 +1,34 @@
+[
+  {
+    "count": 1,
+    "name": "Omniwrench 8000",
+    "category": [
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bomb Glove",
+    "category": [
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hydro-Pack",
+    "category": [
+      "Backpack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Devastator",
+    "category": [
+      "Weapon"
+    ],
+    "progression": true
+  }
+]

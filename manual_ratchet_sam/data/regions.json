@@ -1,0 +1,13 @@
+{
+  "Novalis": {
+    "starting": true,
+    "connects_to": [
+      "Kerwan"
+    ],
+    "requires": []
+  },
+  "Kerwan": {
+    "connects_to": [],
+    "requires": []
+  }
+}

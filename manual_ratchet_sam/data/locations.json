@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Novalis: Rescue Planetary Chairman",
+    "region": "Novalis",
+    "category": [],
+    "requires": "Omniwrench 8000"
+  },
+  {
+    "name": "Novalis: Pay Plumber",
+    "region": "Novalis",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Novalis: Explore Waterworks",
+    "region": "Novalis",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Novalis: Gold Bolt, Waterworks",
+    "region": "Novalis",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Novalis: Gold Bolt, River",
+    "region": "Novalis",
+    "category": [],
+    "requires": "Hydro-Pack"
+  },
+  {
+    "name": "Novalis: Gold Bolt, Caves",
+    "region": "Novalis",
+    "category": [],
+    "requires": "Bomb Glove"
+  },
+  {
+    "name": "Novalis: Skill Point, Take Aim",
+    "region": "Novalis",
+    "category": [],
+    "requires": "Devastator"
+  }
+]
