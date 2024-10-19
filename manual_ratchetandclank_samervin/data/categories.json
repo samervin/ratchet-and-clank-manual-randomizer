@@ -1,8 +1,26 @@
 {
-    "Example Logic only category": {
-        "hidden": true
-    },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
-    }
+    "Weapon": {},
+    "Gadget": {},
+    "Item": {},
+    "Infobot": {},
+    "Gold Bolt": {},
+    "Skill Point": {},
+    "Tobruk Crater, Novalis": {},
+    "Metropolis, Kerwan": {},
+    "Outpost X11, Aridia": {},
+    "Logging Site, Eudora": {},
+    "Blarg Station, Nebula G34": {},
+    "Blackwater City, Rilgar": {},
+    "Qwark's HQ, Umbris": {},
+    "Fort Krontos, Batalia": {},
+    "Blarg Depot, Gaspar": {},
+    "Kogor Refinery, Orxon": {},
+    "Jowai Resort, Pokitaru": {},
+    "Bomb Factory, Hoven": {},
+    "Gemlik Base, Oltanis Orbit": {},
+    "Gorda City Ruins, Oltanis": {},
+    "Robot Factory, Quartu": {},
+    "Gadgetron Site, Kalebo III": {},
+    "Drek's Fleet, Veldin Orbit": {},
+    "Kyzil Plateau, Veldin": {}
 }
