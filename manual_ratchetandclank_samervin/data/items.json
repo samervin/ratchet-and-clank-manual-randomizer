@@ -130,7 +130,7 @@
         "progression": true
     },
     {
-        "name": "Grindboots",
+        "name": "Grind Boots",
         "category": ["Gadget"],
         "progression": true
     },
@@ -180,7 +180,7 @@
         "progression": true
     },
     {
-        "name": "CodeBot",
+        "name": "Codebot",
         "category": ["Item"],
         "progression": true
     },
@@ -272,11 +272,11 @@
     {
         "name": "Gold Bolt",
         "count": 40,
-        "progression": true
+        "useful": true
     },
     {
         "name": "Skill Point",
         "count": 30,
-        "progression": true
+        "useful": true
     }
 ]

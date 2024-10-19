@@ -1,5 +1,21 @@
 # ratchet-and-clank-manual-randomizer
 
+_NOTE_: Decoy Glove is a placeholder for "I haven't figured out the requirements yet". It is not required for any actual checks. Pyrocitor is a placeholder for the final boss.
+
+Logic assumes you always have all your moves available, infinite bolts, and your Omniwrench.
+
+Things not (yet?) included:
+
+- Omniwrench is not an item, thus it is in logic at all times
+- RYNO is not an item, thus it is out of logic at all times
+- Regular movement abilities are not items, thus they are in logic at all times (not including high jump/long jump/glide, those require a backpack)
+- Vendor items are not locations and thus you are not expected to buy any weapons
+- The RYNO salesman is not a location and thus you are not expected to buy the RYNO
+- The Ultra Nanotech (the second tier) is not a location and thus you are not expected to buy it
+- The Gold Weapons on Gemlik Base are not locations and thus you are not expected to buy any gold weapons
+- The two Goodies menu items you unlock with Skill Points are not items, thus Skill Points are not yet in logic
+- The two Goodies menu items you unlock with Gold Weapons are not items, thus both Gold Bolts and Gold Weapons are not in logic
+
 ## Magic Combos
 
 Source: https://creepnt.stream/rc/rccombo.html
@@ -10,49 +26,49 @@ Weapons
 
 - Wrench: → □ → ↑ ○ ← ↑ ← ↑ □ □ ↓ ↓ ↓ ↑ ○ ↑ ↓ □ →
 - Bomb Glove: → ↑ ↑ ↓ ← ↑ ↑ ↓ ↓ ↓ ↓ □ ↑ ← ↓ ← ← ↑ ↓ ←
-- Pyrocitor: ↓ ↑ □ ↑ ↑ ↓ □ □ ○ ↓ ← ↑ → ← → → ○ ○ ← ← 
+- Pyrocitor: ↓ ↑ □ ↑ ↑ ↓ □ □ ○ ↓ ← ↑ → ← → → ○ ○ ← ←
 - Blaster: → ○ ↑ ○ → ↑ ← □ → ↑ ↑ ← ← ↓ → □ □ ○ □ ↑
-- Glove of Doom: ↑ ↑ → ← □ ↓ ○ ○ ← ○ → ← → ↓ ○ ↓ ← ↓ ○ □ 
-- Mine Glove: → ○ ← → → ○ □ → ↑ □ ← ↓ ↓ → ○ ↓ □ ← → □ 
-- Taunter: □ → ↓ ↓ ← ↓ → → □ ○ ○ ← ↓ → ← → □ → ↓ ↓ 
+- Glove of Doom: ↑ ↑ → ← □ ↓ ○ ○ ← ○ → ← → ↓ ○ ↓ ← ↓ ○ □
+- Mine Glove: → ○ ← → → ○ □ → ↑ □ ← ↓ ↓ → ○ ↓ □ ← → □
+- Taunter: □ → ↓ ↓ ← ↓ → → □ ○ ○ ← ↓ → ← → □ → ↓ ↓
 - Suck Cannon: ← ↑ □ ↑ ← → → ← ← □ ↑ ↓ ← ○ □ ○ ↑ ← ← ○
 - Devastator: ↓ ↓ □ ↓ ↑ → ↓ ← ○ ↓ ← ↑ ○ ○ ← ↓ ← → ↓ ○
-- Walloper: □ ↑ ← ← □ ↓ ↓ ○ ↓ → ○ ← ○ ↑ ↑ ↓ ↑ ← □ □ 
+- Walloper: □ ↑ ← ← □ ↓ ↓ ○ ↓ → ○ ← ○ ↑ ↑ ↓ ↑ ← □ □
 - Visibomb: ← → ○ ← ○ ↑ → ↓ ↓ ↑ □ ↓ ← □ ↑ ← → → ○ ↑
-- Decoy Glove: ↑ □ ↓ ↓ ↓ ○ ○ ↑ ← → ← ○ → ← □ ○ ↑ → ↓ ← 
-- Drone Device: ↓ ↓ → ← ↓ ↑ ○ ↓ → ○ → → ↑ ↓ ↑ ○ → ↑ ↓ ← 
+- Decoy Glove: ↑ □ ↓ ↓ ↓ ○ ○ ↑ ← → ← ○ → ← □ ○ ↑ → ↓ ←
+- Drone Device: ↓ ↓ → ← ↓ ↑ ○ ↓ → ○ → → ↑ ↓ ↑ ○ → ↑ ↓ ←
 - Tesla Claw: ↓ ↑ ↓ ↑ → □ ← ← ○ □ ○ ← → ○ ↑ ← ○ ← ← □
 - Morphoray: ↓ □ □ ↑ ○ → ↑ □ ← → ○ □ ↓ → ↓ → ↓ → → ←
-- RYNO: □ ○ ○ □ □ ↑ □ → ↑ □ → ↑ □ ← ← □ ○ ↑ ← ○ 
+- RYNO: □ ○ ○ □ □ ↑ □ → ↑ □ → ↑ □ ← ← □ ○ ↑ ← ○
 
 Gadgets
 
 - Trespasser: ← → ↑ → ↓ ← ↓ → ← ↑ ↓ ← ↓ □ □ ← ○ → □ ↓
-- Hydrodisplacer: ↑ ↓ ↑ ↓ ↓ □ ← ← ↑ ← ← → → ← ← → → ○ → → 
+- Hydrodisplacer: ↑ ↓ ↑ ↓ ↓ □ ← ← ↑ ← ← → → ← ← → → ○ → →
 - Swingshot: → ← ↑ → ↑ ↑ ↑ → □ ↓ ○ ← ○ ↓ □ → ↓ ← → ↑
-- PDA: ○ ○ ↑ □ ↑ ← ↓ □ ○ ↑ ← → → ○ ○ → → □ ↑ ← 
+- PDA: ○ ○ ↑ □ ↑ ← ↓ □ ○ ↑ ← → → ○ ○ → → □ ↑ ←
 - Metal Detector: ○ → → ○ ↓ ↓ ↑ → □ ○ ↓ ↑ ↑ ↑ □ ↓ → → □ ○
-- Hologuise: □ → ← ↓ □ ← ○ ← ← ○ ← ↓ → ○ → □ → ↑ ○ ↑ 
+- Hologuise: □ → ← ↓ □ ← ○ ← ← ○ ← ↓ → ○ → □ → ↑ ○ ↑
 - Helipack: ○ ← → □ □ ↑ ← → ↑ ↑ ↑ ↓ ↓ → ← ↓ ○ ↑ → ←
 - Thrusterpack: □ → ← □ □ → □ ↑ ○ ○ ← ← ↑ ↑ ○ ← → ↑ → □
 - Hydropack: ← → ↓ ↑ → ↑ ↑ ↓ □ ← → ↑ → ↑ ↑ ↓ ↑ ↓ ○ ↓
-- O2 Mask: ← □ ↑ → ↑ ↓ → ↓ ↑ ← ← ↓ ← → ↓ → □ □ → ○ 
+- O2 Mask: ← □ ↑ → ↑ ↓ → ↓ ↑ ← ← ↓ ← → ↓ → □ □ → ○
 - Sonic Summoner: ↓ → ↓ ← □ ↑ → → ↓ ↑ → ↑ ↓ ↑ → → ← □ □ ↓
 - Pilot's Helmet: ↓ ↓ ↑ ↑ ○ □ ↓ ↑ ↓ ↑ ← ↓ ○ □ ↓ □ → ○ ↑ ↓
-- Grind Boots: ○ ↓ → □ ↑ → → → ↓ □ → ○ ← □ ← ← ← □ → ↓ 
-- Magneboots: → ← ↑ ↓ ↑ ↓ □ ← → ↑ ○ ← ↑ □ ↑ → ○ ← → ← 
+- Grind Boots: ○ ↓ → □ ↑ → → → ↓ □ → ○ ← □ ← ← ← □ → ↓
+- Magneboots: → ← ↑ ↓ ↑ ↓ □ ← → ↑ ○ ← ↑ □ ↑ → ○ ← → ←
 
 Items
 
 - Hoverboard: → ↓ ↓ → ○ ← → → → ↓ ↓ → ○ ← → → → ↓ ↓ →
-- Persuader: □ ○ ← ↑ → ↓ ↓ ↑ → ○ ↓ ← ↑ ← ↓ ← ○ ○ → ↓ 
+- Persuader: □ ○ ← ↑ → ↓ ↓ ↑ → ○ ↓ ← ↑ ← ↓ ← ○ ○ → ↓
 - Bolt Grabber: ↑ ↑ ↓ □ ↓ ↑ ← → ○ ← ↓ ○ ↑ → ← ↓ □ □ ↓ ↓
 - Premium Nanotech: → ← ↑ ○ → □ ↑ → □ ↑ ↓ ○ □ ← ← ↓ ↓ ○ ↓ ↓
-- Ultra Nanotech: ↓ □ → → □ ○ □ ← □ ↓ ↑ → ○ □ ○ → → ↑ ○ ↑ 
+- Ultra Nanotech: ↓ □ → → □ ○ □ ← □ ↓ ↑ → ○ □ ○ → → ↑ ○ ↑
 - Mapomatic: □ ↑ → ↓ □ □ □ ↑ ↑ ← → □ → → ↓ ↓ ↓ ← → ←
 - Zoomerator: ← ○ ↑ ↓ ○ ← ← → ↓ → ○ ↓ □ → → □ ↑ □ ↑ ○
 - Raritanium: → ○ ↓ → ○ ↑ ↑ ↓ → ○ □ □ → ↑ ↑ ○ ↓ □ → □
-- Codebot: ↑ ← ↑ ← □ ↑ ○ ↑ → → ○ ↓ → → ○ ○ □ ○ ↓ ↑ 
+- Codebot: ↑ ← ↑ ← □ ↑ ○ ↑ → → ○ ↓ → → ○ ○ □ ○ ↓ ↑
 
 Planets
 
