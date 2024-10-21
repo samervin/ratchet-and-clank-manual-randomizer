@@ -139,7 +139,7 @@
         "name": "Eudora: Confront robot lieutenant",
         "region": "Eudora",
         "category": ["Eudora, Logging Site"],
-        "requires": "|Trespasser| and (|Heli-Pack| or |Thruster-Pack) and |Swingshot|"
+        "requires": "|Trespasser| and (|Heli-Pack| or |Thruster-Pack|) and |Swingshot|"
     },
     {
         "name": "Eudora: Explore the mills",
