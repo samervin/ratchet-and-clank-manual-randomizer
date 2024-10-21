@@ -624,10 +624,10 @@
         "requires": "|Decoy Glove| and |O2 Mask|"
     },
     {
-        "name": "Veldin: Save Ratchet's planet",
+        "name": "Defeat Chairman Drek",
         "region": "Veldin",
         "category": ["Veldin, Kyzil Plateau"],
-        "requires": "|Pyrocitor|",
+        "requires": "|R.Y.N.O.|",
         "victory": true
     },
     {

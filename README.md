@@ -1,13 +1,12 @@
 # ratchet-and-clank-manual-randomizer
 
-_NOTE_: Decoy Glove is a placeholder for "I haven't figured out the requirements yet". It is not required for any actual checks. Pyrocitor is a placeholder for the final boss.
+_NOTE_: Decoy Glove is a placeholder for "I haven't figured out the requirements yet". It is not required for any actual checks. The RYNO is logically required for the final boss, in order to make go mode more difficult and work around ammo annoyances.
 
 Logic assumes you always have all your moves available, infinite bolts, and your Omniwrench.
 
 Things not (yet?) included:
 
 - Omniwrench is not an item, thus it is in logic at all times
-- RYNO is not an item, thus it is out of logic at all times
 - Regular movement abilities are not items, thus they are in logic at all times (not including high jump/long jump/glide, those require a backpack)
 - Vendor items are not locations and thus you are not expected to buy any weapons
 - The RYNO salesman is not a location and thus you are not expected to buy the RYNO

@@ -70,6 +70,11 @@
         "progression": true
     },
     {
+        "name": "R.Y.N.O.",
+        "category": ["Weapon"],
+        "progression": true
+    },
+    {
         "name": "Trespasser",
         "category": ["Gadget"],
         "progression": true
