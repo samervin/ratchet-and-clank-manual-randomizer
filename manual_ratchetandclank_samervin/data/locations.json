@@ -162,37 +162,36 @@
         "name": "Nebula G34: Explore the space station + Buy Grindboots",
         "region": "Nebula G34",
         "category": ["Nebula G34, Blarg Station"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Swingshot|"
     },
     {
         "name": "Nebula G34: Explore the Blarg warship + Destroy the warship",
         "region": "Nebula G34",
-        "category": ["Nebula G34, Blarg Station"],
-        "requires": "|Decoy Glove|"
+        "category": ["Nebula G34, Blarg Station"]
     },
     {
         "name": "Nebula G34: Journey outside the airlock",
         "region": "Nebula G34",
         "category": ["Nebula G34, Blarg Station"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Trespasser|"
     },
     {
         "name": "Nebula G34 Gold Bolt: Ratchet path",
         "region": "Nebula G34",
         "category": ["Nebula G34, Blarg Station"],
-        "requires": "|Decoy Glove| and (|Heli-Pack| or |Thruster-Pack|)"
+        "requires": "|Swingshot|"
     },
     {
         "name": "Nebula G34 Gold Bolt: Clank path",
         "region": "Nebula G34",
         "category": ["Nebula G34, Blarg Station"],
-        "requires": "|Decoy Glove| and (|O2 Mask|)"
+        "requires": "|Trespasser| and |O2 Mask| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Nebula G34 Skill Point: Girl trouble",
         "region": "Nebula G34",
         "category": ["Nebula G34, Blarg Station"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Swingshot|"
     },
     {
         "name": "Rilgar: Win the hoverboard race",
