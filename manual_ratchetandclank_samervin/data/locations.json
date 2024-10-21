@@ -86,80 +86,77 @@
     {
         "name": "Aridia: Locate Skid McMarx + Help Skid",
         "region": "Aridia",
-        "category": ["Aridia, Outpost X11"],
-        "requires": "|Decoy Glove|"
+        "category": ["Aridia, Outpost X11"]
     },
     {
         "name": "Aridia: Find Skid's Agent + Bring prize",
         "region": "Aridia",
         "category": ["Aridia, Outpost X11"],
-        "requires": "|Decoy Glove| and |Zoomerator|"
+        "requires": "|Zoomerator|"
     },
     {
         "name": "Aridia: Use your Swingshot",
         "region": "Aridia",
         "category": ["Aridia, Outpost X11"],
-        "requires": "|Decoy Glove| and |Swingshot|"
+        "requires": "|Swingshot|"
     },
     {
         "name": "Aridia Gold Bolt: Sandsharks",
         "region": "Aridia",
         "category": ["Aridia, Outpost X11"],
-        "requires": "|Decoy Glove| and (|Bomb Glove| or |Devastator| or |Visibomb Gun|)"
+        "requires": "|Bomb Glove| or |Mine Glove| or |Devastator| or |Visibomb Gun|"
     },
     {
         "name": "Aridia Gold Bolt: Island",
         "region": "Aridia",
-        "category": ["Aridia, Outpost X11"],
-        "requires": "|Decoy Glove| and (|Heli-Pack| or |Thruster-Pack|)"
+        "category": ["Aridia, Outpost X11"]
     },
     {
         "name": "Aridia Gold Bolt: Above agent",
         "region": "Aridia",
         "category": ["Aridia, Outpost X11"],
-        "requires": "|Decoy Glove| and |Magneboots|"
+        "requires": "|Magneboots|"
     },
     {
         "name": "Aridia Gold Bolt: Under Trespasser",
         "region": "Aridia",
         "category": ["Aridia, Outpost X11"],
-        "requires": "|Decoy Glove| and |Swingshot|"
+        "requires": "|Swingshot|"
     },
     {
         "name": "Aridia Skill Point: Swing it!",
         "region": "Aridia",
         "category": ["Aridia, Outpost X11"],
-        "requires": "|Decoy Glove| and |Swingshot|"
+        "requires": "|Swingshot|"
     },
     {
         "name": "Aridia Skill Point: Transported",
         "region": "Aridia",
         "category": ["Aridia, Outpost X11"],
-        "requires": "|Decoy Glove| and (|Devastator| or |Visibomb Gun|)"
+        "requires": "|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|"
     },
     {
         "name": "Eudora: Confront robot lieutenant",
         "region": "Eudora",
         "category": ["Eudora, Logging Site"],
-        "requires": "|Decoy Glove| and |Trespasser| and |Swingshot|"
+        "requires": "|Trespasser| and (|Heli-Pack| or |Thruster-Pack) and |Swingshot|"
     },
     {
         "name": "Eudora: Explore the mills",
         "region": "Eudora",
         "category": ["Eudora, Logging Site"],
-        "requires": "|Decoy Glove| and (|Heli-Pack| or |Thruster-Pack|)"
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
     },
     {
         "name": "Eudora Gold Bolt: Ledge",
         "region": "Eudora",
         "category": ["Eudora, Logging Site"],
-        "requires": "|Decoy Glove| and (|Heli-Pack| or |Thruster-Pack|)"
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
     },
     {
         "name": "Eudora Skill Point: Any ten",
         "region": "Eudora",
-        "category": ["Eudora, Logging Site"],
-        "requires": "|Decoy Glove| and (|Blaster| or |Devastator| or |Visibomb Gun|)"
+        "category": ["Eudora, Logging Site"]
     },
     {
         "name": "Nebula G34: Explore the space station + Buy Grindboots",
