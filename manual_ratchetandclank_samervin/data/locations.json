@@ -197,43 +197,43 @@
         "name": "Rilgar: Win the hoverboard race",
         "region": "Rilgar",
         "category": ["Rilgar, Blackwater City"],
-        "requires": "|Decoy Glove| and |Hoverboard|"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hoverboard|"
     },
     {
         "name": "Rilgar: Locate Captain Qwark + Bribe the bodyguard",
         "region": "Rilgar",
         "category": ["Rilgar, Blackwater City"],
-        "requires": "|Decoy Glove| and (|Heli-Pack| or |Thruster-Pack|)"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Swingshot| and |Hydrodisplacer|"
     },
     {
         "name": "Rilgar Gold Bolt: Force fields",
         "region": "Rilgar",
         "category": ["Rilgar, Blackwater City"],
-        "requires": "|Decoy Glove| and (|Heli-Pack| or |Thruster-Pack|)"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|)"
     },
     {
         "name": "Rilgar Gold Bolt: Underwater",
         "region": "Rilgar",
         "category": ["Rilgar, Blackwater City"],
-        "requires": "|Decoy Glove| and |O2 Mask|"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |Swingshot| and |Hydrodisplacer| and |O2 Mask|"
     },
     {
         "name": "Rilgar Skill Point: Tricky",
         "region": "Rilgar",
         "category": ["Rilgar, Blackwater City"],
-        "requires": "|Decoy Glove| and |Hoverboard|"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hoverboard|"
     },
     {
         "name": "Rilgar Skill Point: Cluck, cluck",
         "region": "Rilgar",
         "category": ["Rilgar, Blackwater City"],
-        "requires": "|Decoy Glove| and |Morph-o-Ray|"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and |O2 Mask| and |Morph-o-Ray|"
     },
     {
         "name": "Rilgar Skill Point: Speedy",
         "region": "Rilgar",
         "category": ["Rilgar, Blackwater City"],
-        "requires": "|Decoy Glove| and |Hoverboard| and |Zoomerator|"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hoverboard|"
     },
     {
         "name": "Umbris: Survive gauntlet + Destroy Snagglebeast + Find ship",
