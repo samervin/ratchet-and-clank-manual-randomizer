@@ -257,49 +257,48 @@
         "name": "Batalia: Scout the area + Talk to commando + Meet at city",
         "region": "Batalia",
         "category": ["Batalia, Fort Krontos"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|"
     },
     {
         "name": "Batalia: Ride the grind rail + Buy Infobot",
         "region": "Batalia",
         "category": ["Batalia, Fort Krontos"],
-        "requires": "|Decoy Glove| and |Grind Boots|"
+        "requires": "|Grind Boots|"
     },
     {
-        "name": "Batalia: Explore the walled city",
+        "name": "Batalia: Explore the walled city + Destroy bombers",
         "region": "Batalia",
         "category": ["Batalia, Fort Krontos"],
-        "requires": "|Decoy Glove| and |Magneboots|"
+        "requires": "(|Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Magneboots|"
     },
     {
         "name": "Batalia Gold Bolt: Roof",
         "region": "Batalia",
-        "category": ["Batalia, Fort Krontos"],
-        "requires": "|Decoy Glove|"
+        "category": ["Batalia, Fort Krontos"]
     },
     {
         "name": "Batalia Gold Bolt: Cliffs",
         "region": "Batalia",
         "category": ["Batalia, Fort Krontos"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Heli-Pack| or |Thruster-Pack|"
     },
     {
         "name": "Batalia Skill Point: Jumper",
         "region": "Batalia",
         "category": ["Batalia, Fort Krontos"],
-        "requires": "|Decoy Glove| and |Grind Boots|"
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Batalia Skill Point: Accuracy counts",
         "region": "Batalia",
         "category": ["Batalia, Fort Krontos"],
-        "requires": "|Decoy Glove| and |Magneboots|"
+        "requires": "(|Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Magneboots|"
     },
     {
         "name": "Batalia Skill Point: Eat lead",
         "region": "Batalia",
         "category": ["Batalia, Fort Krontos"],
-        "requires": "|Decoy Glove| and |Sonic Summoner|"
+        "requires":  "(|Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Magneboots| and |Sonic Summoner|"
     },
     {
         "name": "Gaspar: Find the Pilot's Helmet",
