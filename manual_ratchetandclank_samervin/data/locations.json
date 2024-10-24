@@ -304,31 +304,30 @@
         "name": "Gaspar: Find the Pilot's Helmet",
         "region": "Gaspar",
         "category": ["Gaspar, Blarg Depot"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Drone Device| or |Tesla Claw|"
     },
     {
         "name": "Gaspar Gold Bolt: Ships",
         "region": "Gaspar",
         "category": ["Gaspar, Blarg Depot"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Swingshot|"
     },
     {
         "name": "Gaspar Gold Bolt: Volcano",
         "region": "Gaspar",
         "category": ["Gaspar, Blarg Depot"],
-        "requires": "|Decoy Glove|"
+        "requires": "(|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Drone Device| or |Tesla Claw|) and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Gaspar Skill Point: Destroyed",
         "region": "Gaspar",
         "category": ["Gaspar, Blarg Depot"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Swingshot| and ((|Devastator| or |Visibomb Gun|) or ((|Bomb Glove| or |Blaster| or |Tesla Claw|) and (|Heli-Pack| or |Thruster-Pack|)))"
     },
     {
         "name": "Gaspar Skill Point: Gunner",
         "region": "Gaspar",
-        "category": ["Gaspar, Blarg Depot"],
-        "requires": "|Decoy Glove|"
+        "category": ["Gaspar, Blarg Depot"]
     },
     {
         "name": "Orxon: Search the laboratories",
