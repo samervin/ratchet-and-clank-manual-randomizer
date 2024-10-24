@@ -379,37 +379,36 @@
         "name": "Pokitaru: Check out resort + Help owner + Buy Thruster-Pack",
         "region": "Pokitaru",
         "category": ["Pokitaru, Jowai Resort"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Suck Cannon| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Drone Device| or |Tesla Claw|"
     },
     {
         "name": "Pokitaru: Destroy the Blarg Ships",
         "region": "Pokitaru",
         "category": ["Pokitaru, Jowai Resort"],
-        "requires": "|Decoy Glove| and |Pilot's Helmet|"
+        "requires": "(|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Suck Cannon| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Drone Device| or |Tesla Claw|) and |Thruster-Pack| and |Pilot's Helmet|"
     },
     {
         "name": "Pokitaru: Navigate sewers + Bring Raritanium",
         "region": "Pokitaru",
         "category": ["Pokitaru, Jowai Resort"],
-        "requires": "|Decoy Glove| and |Raritanium|"
+        "requires": "|Hydrodisplacer| and |Trespasser| and |Raritanium|"
     },
     {
         "name": "Pokitaru Gold Bolt: Secret path",
         "region": "Pokitaru",
         "category": ["Pokitaru, Jowai Resort"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Thruster-Pack|"
     },
     {
         "name": "Pokitaru Skill Point: Alien invasion",
         "region": "Pokitaru",
         "category": ["Pokitaru, Jowai Resort"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Visibomb Gun|"
     },
     {
         "name": "Pokitaru Skill Point: Buried treasure",
         "region": "Pokitaru",
-        "category": ["Pokitaru, Jowai Resort"],
-        "requires": "|Decoy Glove|"
+        "category": ["Pokitaru, Jowai Resort"]
     },
     {
         "name": "Hoven: Destroy the Planetbuster",
