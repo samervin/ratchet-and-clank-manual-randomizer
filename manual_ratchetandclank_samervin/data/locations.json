@@ -330,52 +330,50 @@
         "category": ["Gaspar, Blarg Depot"]
     },
     {
-        "name": "Orxon: Search the laboratories",
+        "name": "Orxon: Search the laboratories*",
         "region": "Orxon",
-        "category": ["Orxon, Kogor Refinery"],
-        "requires": "|Decoy Glove|"
+        "category": ["Orxon, Kogor Refinery"]
     },
     {
-        "name": "Orxon: Traverse the wilderness",
+        "name": "Orxon: Traverse the wilderness*",
         "region": "Orxon",
-        "category": ["Orxon, Kogor Refinery"],
-        "requires": "|Decoy Glove|"
+        "category": ["Orxon, Kogor Refinery"]
     },
     {
         "name": "Orxon: Explore as Ratchet + Catch Infobot",
         "region": "Orxon",
         "category": ["Orxon, Kogor Refinery"],
-        "requires": "|Decoy Glove| and |O2 Mask|"
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and |Magneboots| and |Swingshot| and (|Bomb Glove| or |Pyrocitor| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Walloper| or |Visibomb Gun| or |Decoy Glove| or |Tesla Claw|)"
     },
     {
         "name": "Orxon: Buy Premium Nanotech",
         "region": "Orxon",
         "category": ["Orxon, Kogor Refinery"],
-        "requires": "|Decoy Glove| and |O2 Mask|"
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Orxon Gold Bolt: Tunnel",
         "region": "Orxon",
         "category": ["Orxon, Kogor Refinery"],
-        "requires": "|Decoy Glove| and |O2 Mask| and |Visibomb Gun|"
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and |Magneboots| and |Swingshot| and |Visibomb Gun|"
     },
     {
-        "name": "Orxon Gold Bolt: Clank section",
+        "name": "Orxon Gold Bolt: Clank section*",
         "region": "Orxon",
         "category": ["Orxon, Kogor Refinery"],
-        "requires": "|Decoy Glove| and |O2 Mask|"
+        "requires": "|O2 Mask|"
     },
     {
         "name": "Orxon Skill Point: Sniper",
         "region": "Orxon",
         "category": ["Orxon, Kogor Refinery"],
-        "requires": "|Decoy Glove| and |O2 Mask| and (|Blaster| or |Devastator| or |Visibomb Gun|)"
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and (|Blaster| or |Devastator| or |Visibomb Gun|)"
     },
     {
         "name": "Orxon Skill Point: Hey, over here!",
         "region": "Orxon",
         "category": ["Orxon, Kogor Refinery"],
-        "requires": "|Decoy Glove| and |O2 Mask| and |Taunter|"
+        "requires": "|O2 Mask| and (|Heli-Pack| or |Thruster-Pack|) and |Magneboots| and |Taunter|"
     },
     {
         "name": "Pokitaru: Check out resort + Help owner + Buy Thruster-Pack",
