@@ -414,37 +414,41 @@
         "name": "Hoven: Destroy the Planetbuster",
         "region": "Hoven",
         "category": ["Hoven, Bomb Factory"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|"
     },
     {
-        "name": "Hoven: Explore icy wastes + Buy Hydro-Pack",
+        "name": "Hoven: Buy Hydro-Pack from Ed",
         "region": "Hoven",
         "category": ["Hoven, Bomb Factory"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Hydrodisplacer|"
+    },
+    {
+        "name": "Hoven: Explore icy wastes + Get Raritanium",
+        "region": "Hoven",
+        "category": ["Hoven, Bomb Factory"],
+        "requires": "|Swingshot| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Hoven Gold Bolt: Near anklebiters",
         "region": "Hoven",
-        "category": ["Hoven, Bomb Factory"],
-        "requires": "|Decoy Glove|"
+        "category": ["Hoven, Bomb Factory"]
     },
     {
         "name": "Hoven Gold Bolt: Water section",
         "region": "Hoven",
         "category": ["Hoven, Bomb Factory"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Hydrodisplacer|"
     },
     {
         "name": "Hoven Skill Point: Pest control",
         "region": "Hoven",
-        "category": ["Hoven, Bomb Factory"],
-        "requires": "|Decoy Glove|"
+        "category": ["Hoven, Bomb Factory"]
     },
     {
         "name": "Hoven Skill Point: Whirlybirds",
         "region": "Hoven",
         "category": ["Hoven, Bomb Factory"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|"
     },
     {
         "name": "Gemlik Base: Explore base + Shoot down Qwark",
