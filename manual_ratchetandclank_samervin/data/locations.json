@@ -454,19 +454,19 @@
         "name": "Gemlik Base: Explore base + Shoot down Qwark",
         "region": "Gemlik Base",
         "category": ["Gemlik Base, Oltanis Orbit"],
-        "requires": "|Decoy Glove| and (|Devastator| or |Visibomb Gun|)"
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Swingshot| and |Magneboots| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Gemlik Base Gold Bolt: Acid",
         "region": "Gemlik Base",
         "category": ["Gemlik Base, Oltanis Orbit"],
-        "requires": "|Decoy Glove| and (|Devastator| or |Visibomb Gun|)"
+        "requires": "(|Visibomb Gun| and |Trespasser|) or ((|Devastator| or |Visibomb Gun|) and |Trespasser| and |Swingshot| and |Magneboots| and (|Heli-Pack| or |Thruster-Pack|))"
     },
     {
         "name": "Gemlik Base Skill Point: Sitting ducks",
         "region": "Gemlik Base",
         "category": ["Gemlik Base, Oltanis Orbit"],
-        "requires": "|Decoy Glove| and (|Devastator| or |Visibomb Gun|)"
+        "requires": "|Visibomb Gun| and |Trespasser| and |Swingshot| and |Magneboots| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Oltanis: Find survivors + Buy Infobot",
