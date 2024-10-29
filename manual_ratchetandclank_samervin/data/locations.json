@@ -526,31 +526,31 @@
         "name": "Quartu: Find out about Ultra-Mech + Destroy Ultra-Mechs",
         "region": "Quartu",
         "category": ["Quartu, Robot Plant"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Swingshot|"
     },
     {
         "name": "Quartu: Explore the coolant system",
         "region": "Quartu",
         "category": ["Quartu, Robot Plant"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Hydro-Pack| and |O2 Mask|"
     },
     {
         "name": "Quartu: Infiltrate the secret area",
         "region": "Quartu",
         "category": ["Quartu, Robot Plant"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Hologuise| and |Thruster-Pack|"
     },
     {
         "name": "Quartu Gold Bolt: Clank's mother",
         "region": "Quartu",
         "category": ["Quartu, Robot Plant"],
-        "requires": "|Decoy Glove| and |Swingshot|"
+        "requires": "|Hologuise| and |Thruster-Pack| and |Swingshot|"
     },
     {
         "name": "Quartu Gold Bolt: Invinco-Vault",
         "region": "Quartu",
         "category": ["Quartu, Robot Plant"],
-        "requires": "|Decoy Glove| and |Codebot|"
+        "requires": "|Swingshot| and |Codebot|"
     },
     {
         "name": "Kalebo III: Find new equipment + Get past Blarg + Win race",
