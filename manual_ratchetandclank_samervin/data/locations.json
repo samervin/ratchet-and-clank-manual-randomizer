@@ -472,49 +472,55 @@
         "name": "Oltanis: Find survivors + Buy Infobot",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Oltanis: Search destroyed city + Buy PDA",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Magneboots|"
+    },
+    {
+        "name": "Oltanis: Search destroyed city + Find Morph-o-Ray",
+        "region": "Oltanis",
+        "category": ["Oltanis, Gorda City Ruins"],
+        "requires": "|Swingshot|"
     },
     {
         "name": "Oltanis Gold Bolt: PDA ledge grab",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Magneboots|"
     },
     {
         "name": "Oltanis Gold Bolt: PDA nook",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Magneboots|"
     },
     {
         "name": "Oltanis Gold Bolt: Swingshot alcove",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
-        "requires": "|Decoy Glove| and |Swingshot|"
+        "requires": "|Grind Boots| and |Swingshot|"
     },
     {
         "name": "Oltanis Gold Bolt: Swingshot course",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
-        "requires": "|Decoy Glove| and |Swingshot|"
+        "requires": "(|Grind Boots| and |Magneboots| and |Swingshot|)"
     },
     {
         "name": "Oltanis Skill Point: Shattered glass",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Visibomb Gun| or (|Grind Boots| and |Magneboots| and |Swingshot|)"
     },
     {
         "name": "Oltanis Skill Point: Blast 'em",
         "region": "Oltanis",
         "category": ["Oltanis, Gorda City Ruins"],
-        "requires": "|Decoy Glove| and (|Devastator| or |Visibomb Gun|)"
+        "requires": "|Visibomb Gun|"
     },
     {
         "name": "Quartu: Find out about Ultra-Mech + Destroy Ultra-Mechs",
