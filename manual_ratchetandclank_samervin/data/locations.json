@@ -221,7 +221,7 @@
         "name": "Rilgar Skill Point: Tricky",
         "region": "Rilgar",
         "category": ["Rilgar, Blackwater City"],
-        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hoverboard|"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|O2 Mask| or |Bomb Glove| or |Blaster| or |Glove of Doom| or |Mine Glove| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Hoverboard| and |Zoomerator|"
     },
     {
         "name": "Rilgar Skill Point: Cluck, cluck",
@@ -556,37 +556,37 @@
         "name": "Kalebo III: Find new equipment + Get past Blarg + Win race",
         "region": "Kalebo III",
         "category": ["Kalebo III, Gadgetron Site"],
-        "requires": "|Decoy Glove| and |Hoverboard|"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Swingshot| and |Grind Boots| and |Hoverboard|"
     },
     {
         "name": "Kalebo III: Ride the grind rail",
         "region": "Kalebo III",
         "category": ["Kalebo III, Gadgetron Site"],
-        "requires": "|Decoy Glove| and |Grind Boots|"
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Kalebo III Gold Bolt: Grind rail",
         "region": "Kalebo III",
         "category": ["Kalebo III, Gadgetron Site"],
-        "requires": "|Decoy Glove| and |Grind Boots|"
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Kalebo III Gold Bolt: Break room",
         "region": "Kalebo III",
         "category": ["Kalebo III, Gadgetron Site"],
-        "requires": "|Decoy Glove| and |Grind Boots|"
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Kalebo III Skill Point: Heavy traffic",
         "region": "Kalebo III",
         "category": ["Kalebo III, Gadgetron Site"],
-        "requires": "|Decoy Glove| and |Grind Boots|"
+        "requires": "|Grind Boots|"
     },
     {
         "name": "Kalebo III Skill Point: Magician",
         "region": "Kalebo III",
         "category": ["Kalebo III, Gadgetron Site"],
-        "requires": "|Decoy Glove| and |Hoverboard|"
+        "requires": "(|Heli-Pack| or |Thruster-Pack|) and (|Blaster| or |Devastator| or |Visibomb Gun| or |Tesla Claw|) and |Swingshot| and |Grind Boots| and |Hoverboard| and |Zoomerator|"
     },
     {
         "name": "Drek's Fleet: Find the coordinates for Drek's laser",
