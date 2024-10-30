@@ -592,44 +592,37 @@
         "name": "Drek's Fleet: Find the coordinates for Drek's laser",
         "region": "Drek's Fleet",
         "category": ["Drek's Fleet, Veldin Orbit"],
-        "requires": "|Decoy Glove| and |Hologuise|"
+        "requires": "|Hologuise| and |Swingshot| and |Magneboots|"
     },
     {
         "name": "Drek's Fleet: Swim through the water tanker",
         "region": "Drek's Fleet",
         "category": ["Drek's Fleet, Veldin Orbit"],
-        "requires": "|Decoy Glove| and |O2 Mask|"
+        "requires": "|Hydro-Pack| and |O2 Mask|"
     },
     {
         "name": "Drek's Fleet Gold Bolt: Water tanker",
         "region": "Drek's Fleet",
         "category": ["Drek's Fleet, Veldin Orbit"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Hydro-Pack| and |O2 Mask|"
     },
     {
-        "name": "Drek's Fleet Gold Bolt: Dogs",
+        "name": "Drek's Fleet Gold Bolt: Drek's flagship",
         "region": "Drek's Fleet",
         "category": ["Drek's Fleet, Veldin Orbit"],
-        "requires": "|Decoy Glove|"
+        "requires": "|Hologuise| and |Swingshot| and |Magneboots| and (|Heli-Pack| or |Thruster-Pack|)"
     },
     {
         "name": "Drek's Fleet Skill Point: Sneaky",
         "region": "Drek's Fleet",
         "category": ["Drek's Fleet, Veldin Orbit"],
-        "requires": "|Decoy Glove| and |Hologuise|"
+        "requires": "|Hologuise| and |Swingshot|"
     },
     {
         "name": "Drek's Fleet Skill Point: Careful cruise",
         "region": "Drek's Fleet",
         "category": ["Drek's Fleet, Veldin Orbit"],
-        "requires": "|Decoy Glove| and |O2 Mask|"
-    },
-    {
-        "name": "Defeat Chairman Drek",
-        "region": "Veldin",
-        "category": ["Veldin, Kyzil Plateau"],
-        "requires": "|R.Y.N.O.|",
-        "victory": true
+        "requires": "|Hydro-Pack| and |O2 Mask|"
     },
     {
         "name": "Veldin Gold Bolt: Force field",
@@ -654,5 +647,12 @@
         "region": "Veldin",
         "category": ["Veldin, Kyzil Plateau"],
         "requires": "|Decoy Glove|"
+    },
+    {
+        "name": "Defeat Chairman Drek",
+        "region": "Veldin",
+        "category": ["Veldin, Kyzil Plateau"],
+        "requires": "|R.Y.N.O.|",
+        "victory": true
     }
 ]
