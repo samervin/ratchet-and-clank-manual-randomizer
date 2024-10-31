@@ -1,19 +1,29 @@
 # ratchet-and-clank-manual-randomizer
 
-_NOTE_: Decoy Glove is a placeholder for "I haven't figured out the requirements yet". It is not required for any actual checks. The RYNO is logically required for the final boss, in order to make go mode more difficult and work around ammo annoyances.
-
-Logic assumes you always have all your moves available, infinite bolts, and your Omniwrench.
+Logical notes:
+- The RYNO is listed as logically required for the final boss. This is intentional, as it increases the likelihood of going to Veldin in a middle of a run instead of only at the end, and it makes go mode more clear. It also works around ammo bugs, see below.
+- You are assumed to have all your regular moves and Omniwrench available, as well as infinite bolts for ammo and NPCs.
 
 Things not (yet?) included:
 
 - Omniwrench is not an item, thus it is in logic at all times
-- Regular movement abilities are not items, thus they are in logic at all times (not including high jump/long jump/glide, those require a backpack)
+- Regular movement abilities are not items, thus they are in logic at all times
 - Vendor items are not locations and thus you are not expected to buy any weapons
 - The RYNO salesman is not a location and thus you are not expected to buy the RYNO
 - The Ultra Nanotech (the second tier) is not a location and thus you are not expected to buy it
 - The Gold Weapons on Gemlik Base are not locations and thus you are not expected to buy any gold weapons
-- The two Goodies menu items you unlock with Skill Points are not items, thus Skill Points are not yet in logic
-- The two Goodies menu items you unlock with Gold Weapons are not items, thus both Gold Bolts and Gold Weapons are not in logic
+- The two Goodies menu items you unlock with Skill Points are not items, thus the Skill Points themselves are not in logic
+- The two Goodies menu items you unlock with Gold Weapons are not items, thus both Gold Bolt and Gold Weapon items are not in logic
+
+Bugs:
+
+- If you use cheat codes to give yourself a weapon, ammo will not drop for it in crates, except for certain weapons agains the Snagglebeast. You can buy the weapon from the vendor once you visit the planet it normally unlocks on, but once you do, you will be unable to buy ammo from the vendor. If you buy a weapon from the vendor before ever using its cheat code, it will work as expected, so you may want to check the available vendors before using the weapon codes (at least for weapons with ammo).
+- If you have the Thruster-Pack but not the Heli-Pack, you will be unable to glide. I didn't discover this until very late in the process of filling out the logic, so there may be a few places that gliding is necessary and not logically accounted for. Give yourself the Heli-Pack if so, and let me know where you needed it!
+- If you have the O2 mask before going to Nebula G34, you cannot complete the Clank section, so mark it as completed.
+- If you have the O2 mask before going to Orxon, you cannot complete the two Clank missions, nor can you access the Gold Bolt in the Clank section. Just mark all three as completed. The elevator that normally goes up from your ship to the second Clank mission will not work, even after completing the Ratchet missions, so the Gold Bolt in the Visibomb tunnel will require making a full loop.
+- If you do not have the O2 mask, don't attempt the coolant system on Quartu. You won't be able to complete it, and drowning will freeze the game.
+- Using an Infobot cheat code usually shows a "Paradox: This message does not exist" message instead of the usual one. This is harmless and the planet is still unlocked.
+- Gemlik Base does not check for the O2 mask _or_ the Pilot's Helmet. Neither does Drek's Fleet. The game simply assumes you have these items already.
 
 ## Magic Combos
 
@@ -23,7 +33,7 @@ In the pause menu, hold L1 + R2 and press the code below.
 
 Weapons
 
-- Wrench: → □ → ↑ ○ ← ↑ ← ↑ □ □ ↓ ↓ ↓ ↑ ○ ↑ ↓ □ →
+- Omniwrench 8000: → □ → ↑ ○ ← ↑ ← ↑ □ □ ↓ ↓ ↓ ↑ ○ ↑ ↓ □ →
 - Bomb Glove: → ↑ ↑ ↓ ← ↑ ↑ ↓ ↓ ↓ ↓ □ ↑ ← ↓ ← ← ↑ ↓ ←
 - Pyrocitor: ↓ ↑ □ ↑ ↑ ↓ □ □ ○ ↓ ← ↑ → ← → → ○ ○ ← ←
 - Blaster: → ○ ↑ ○ → ↑ ← □ → ↑ ↑ ← ← ↓ → □ □ ○ □ ↑
@@ -33,24 +43,24 @@ Weapons
 - Suck Cannon: ← ↑ □ ↑ ← → → ← ← □ ↑ ↓ ← ○ □ ○ ↑ ← ← ○
 - Devastator: ↓ ↓ □ ↓ ↑ → ↓ ← ○ ↓ ← ↑ ○ ○ ← ↓ ← → ↓ ○
 - Walloper: □ ↑ ← ← □ ↓ ↓ ○ ↓ → ○ ← ○ ↑ ↑ ↓ ↑ ← □ □
-- Visibomb: ← → ○ ← ○ ↑ → ↓ ↓ ↑ □ ↓ ← □ ↑ ← → → ○ ↑
+- Visibomb Gun: ← → ○ ← ○ ↑ → ↓ ↓ ↑ □ ↓ ← □ ↑ ← → → ○ ↑
 - Decoy Glove: ↑ □ ↓ ↓ ↓ ○ ○ ↑ ← → ← ○ → ← □ ○ ↑ → ↓ ←
 - Drone Device: ↓ ↓ → ← ↓ ↑ ○ ↓ → ○ → → ↑ ↓ ↑ ○ → ↑ ↓ ←
 - Tesla Claw: ↓ ↑ ↓ ↑ → □ ← ← ○ □ ○ ← → ○ ↑ ← ○ ← ← □
-- Morphoray: ↓ □ □ ↑ ○ → ↑ □ ← → ○ □ ↓ → ↓ → ↓ → → ←
-- RYNO: □ ○ ○ □ □ ↑ □ → ↑ □ → ↑ □ ← ← □ ○ ↑ ← ○
+- Morph-o-Ray: ↓ □ □ ↑ ○ → ↑ □ ← → ○ □ ↓ → ↓ → ↓ → → ←
+- R.Y.N.O.: □ ○ ○ □ □ ↑ □ → ↑ □ → ↑ □ ← ← □ ○ ↑ ← ○
 
 Gadgets
 
 - Trespasser: ← → ↑ → ↓ ← ↓ → ← ↑ ↓ ← ↓ □ □ ← ○ → □ ↓
 - Hydrodisplacer: ↑ ↓ ↑ ↓ ↓ □ ← ← ↑ ← ← → → ← ← → → ○ → →
 - Swingshot: → ← ↑ → ↑ ↑ ↑ → □ ↓ ○ ← ○ ↓ □ → ↓ ← → ↑
-- PDA: ○ ○ ↑ □ ↑ ← ↓ □ ○ ↑ ← → → ○ ○ → → □ ↑ ←
+- Gadgetron PDA: ○ ○ ↑ □ ↑ ← ↓ □ ○ ↑ ← → → ○ ○ → → □ ↑ ←
 - Metal Detector: ○ → → ○ ↓ ↓ ↑ → □ ○ ↓ ↑ ↑ ↑ □ ↓ → → □ ○
 - Hologuise: □ → ← ↓ □ ← ○ ← ← ○ ← ↓ → ○ → □ → ↑ ○ ↑
-- Helipack: ○ ← → □ □ ↑ ← → ↑ ↑ ↑ ↓ ↓ → ← ↓ ○ ↑ → ←
-- Thrusterpack: □ → ← □ □ → □ ↑ ○ ○ ← ← ↑ ↑ ○ ← → ↑ → □
-- Hydropack: ← → ↓ ↑ → ↑ ↑ ↓ □ ← → ↑ → ↑ ↑ ↓ ↑ ↓ ○ ↓
+- Heli-Pack: ○ ← → □ □ ↑ ← → ↑ ↑ ↑ ↓ ↓ → ← ↓ ○ ↑ → ←
+- Thruster-Pack: □ → ← □ □ → □ ↑ ○ ○ ← ← ↑ ↑ ○ ← → ↑ → □
+- Hydro-Pack: ← → ↓ ↑ → ↑ ↑ ↓ □ ← → ↑ → ↑ ↑ ↓ ↑ ↓ ○ ↓
 - O2 Mask: ← □ ↑ → ↑ ↓ → ↓ ↑ ← ← ↓ ← → ↓ → □ □ → ○
 - Sonic Summoner: ↓ → ↓ ← □ ↑ → → ↓ ↑ → ↑ ↓ ↑ → → ← □ □ ↓
 - Pilot's Helmet: ↓ ↓ ↑ ↑ ○ □ ↓ ↑ ↓ ↑ ← ↓ ○ □ ↓ □ → ○ ↑ ↓

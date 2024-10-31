@@ -628,31 +628,30 @@
         "name": "Veldin Gold Bolt: Force field",
         "region": "Veldin",
         "category": ["Veldin, Kyzil Plateau"],
-        "requires": "|Decoy Glove| and |Taunter|"
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack| and |Taunter|"
     },
     {
         "name": "Veldin Gold Bolt: Platforms",
         "region": "Veldin",
         "category": ["Veldin, Kyzil Plateau"],
-        "requires": "|Decoy Glove| and |Swingshot|"
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack|"
     },
     {
-        "name": "Veldin Gold Bolt: Lava",
+        "name": "Veldin Gold Bolt: Grind rail",
         "region": "Veldin",
         "category": ["Veldin, Kyzil Plateau"],
-        "requires": "|Decoy Glove|"
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack| and |Grind Boots|"
     },
     {
         "name": "Veldin Skill Point: Going commando",
         "region": "Veldin",
-        "category": ["Veldin, Kyzil Plateau"],
-        "requires": "|Decoy Glove|"
+        "category": ["Veldin, Kyzil Plateau"]
     },
     {
         "name": "Defeat Chairman Drek",
         "region": "Veldin",
         "category": ["Veldin, Kyzil Plateau"],
-        "requires": "|R.Y.N.O.|",
+        "requires": "(|Devastator| or |Visibomb Gun|) and |Trespasser| and |Magneboots| and |Hydrodisplacer| and |Thruster-Pack| and |R.Y.N.O.|",
         "victory": true
     }
 ]
