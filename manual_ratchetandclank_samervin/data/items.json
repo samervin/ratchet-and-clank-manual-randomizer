@@ -276,12 +276,10 @@
     },
     {
         "name": "Gold Bolt",
-        "count": 40,
-        "useful": true
+        "count": 40
     },
     {
         "name": "Skill Point",
-        "count": 30,
-        "useful": true
+        "count": 30
     }
 ]
